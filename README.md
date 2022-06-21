@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vksingh01
+- 👀 I’m interested in Python and SQL(Data Science).
+- 🌱 I’m currently learning Advance Python for data science 
+- 💞️ I’m looking to collaborate on SQL and Python
+- 📫 How to reach me you can Email vikas.dataminer@gmail.com
